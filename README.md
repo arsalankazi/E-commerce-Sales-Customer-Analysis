@@ -40,17 +40,21 @@ An end-to-end Data Analytics project analyzing **5.4 lakh+ rows** of real-world 
 
 ## 📂 Repository Structure
 
-E-commerce-Sales-Customer-Analysis/
-│
-├── 02_Scripts/
-│   └── import_data.py        # Python ETL Script
-│   └── run_etl.bat           # Automation Script
-├── 03_SQL/
-│   └── ecommerce_analysis.sql # SQL Queries
-├── 04_PowerBI/
-│   └── Dashboard.pbix        # Power BI File
-├── 05_Screenshots/
-│   ├── Executive_Summary.png
-│   ├── Marketing_View.png
-│   └── Operations_View.png
-└── README.md
+E-commerce-Sales-Customer-Analysis
+
+1) Scripts:
+ import_data.py             # Python ETL Script
+ run_etl.bat                # Automation Script
+ 
+2) SQL:
+ ecommerce_analysis.sql     # SQL Queries
+ 
+3) PowerBI
+ Dashboard.pbix             # Power BI File
+ 
+4) Screenshots:
+  Executive_Summary.png
+  Marketing_View.png
+  Operations_View.png
+  
+5) README.md
